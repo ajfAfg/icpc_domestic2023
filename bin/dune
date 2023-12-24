@@ -1,0 +1,4 @@
+(executable
+ (public_name icpc_domestic2023)
+ (name main)
+ (libraries icpc_domestic2023))
